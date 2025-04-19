@@ -27,7 +27,7 @@ return(
 
  {displayAction && <p>I am writing JSX</p>}
  <Instructions />
- <Instructions />
+
  <ul>
  {
  emojis.map(emoji => (
